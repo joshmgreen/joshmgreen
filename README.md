@@ -1,16 +1,27 @@
-## Hi there 👋
+# Josh Green
 
-<!--
-**joshmgreen/joshmgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer with 8 years of experience building web applications across the stack. Currently focused on Go and React.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- 8 years of professional software development
+- Full-stack web development — frontend through backend, database design, and APIs
+- Consulting background with experience across multiple client domains
+
+---
+
+## Tech Stack
+
+**Languages:** JavaScript / TypeScript, Go, SQL, PL/SQL  
+**Frontend:** React, HTML/CSS  
+**Backend:** Node.js, Go  
+**Databases:** PostgreSQL, Oracle  
+**Tools:** Git, Docker, REST APIs
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/joshgreencodes/)
