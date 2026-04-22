@@ -1,22 +1,22 @@
 # Josh Green
 
-Full-stack software engineer with 8 years of experience building web applications across the stack. Currently focused on Go and React.
+Full-stack software engineer focused on building reliable, maintainable web applications. I work primarily with Go and React, with experience designing systems end-to-end—from frontend interfaces to backend services and data models.
 
 ---
 
 ## Experience
 
-- 8 years of professional software development
-- Full-stack web development — frontend through backend, database design, and APIs
-- Consulting background with experience across multiple client domains
+- Full-stack development across frontend, backend, and databases
+- API design and distributed systems work
+- Consulting experience across multiple domains and teams
 
 ---
 
 ## Tech Stack
 
-**Languages:** JavaScript / TypeScript, Go, SQL, PL/SQL  
-**Frontend:** React, HTML/CSS  
-**Backend:** Node.js, Go  
+**Languages:** JavaScript / TypeScript, Go, SQL  
+**Frontend:** React, HTML, CSS  
+**Backend:** Go, Node.js  
 **Databases:** PostgreSQL, Oracle  
 **Tools:** Git, Docker, REST APIs
 
